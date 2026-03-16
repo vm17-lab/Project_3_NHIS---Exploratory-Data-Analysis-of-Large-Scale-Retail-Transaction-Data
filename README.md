@@ -1,7 +1,7 @@
 # Project_3_NHIS---Exploratory Data Analysis of Large-Scale Retail Transaction Data
 📌 Project Overview
 
-This project focuses on performing a comprehensive Exploratory Data Analysis (EDA) on a large-scale retail dataset. The primary goal is to uncover hidden patterns, understand customer purchasing behavior, and identify key performance indicators (KPIs) that drive business growth.
+This project focuses on performing a comprehensive Exploratory Data Analysis (EDA) on a large-scale retail dataset. The primary goal is to uncover hidden patterns, understand customer purchasing behavior, and identify key performance indicators that drive business growth.
 
 By analyzing transactional data, we aim to provide actionable insights into sales trends, product popularity, and geographical distribution of customers.
 
